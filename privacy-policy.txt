@@ -1,0 +1,17 @@
+Privacy Policy for my Mobile Applications
+
+This Privacy Policy describes how my mobile application handles and protects user information.
+
+1. Information Collection
+The App does not collect or store any personal data from its users. We do not request or require any personally identifiable information (such as names, addresses, or contact details) within the App.
+
+2. Usage Data
+The App may collect anonymous usage data to improve user experience and app functionality. This data is collected solely for analytical purposes and does not include any personally identifiable information.
+
+3. Third-Party Services
+The App does not utilize any third-party services or integrations that would collect, store, or share user data.
+
+4. Children's Privacy
+The App is intended for general audiences and does not knowingly collect personal information from children under the age of 13. If we become aware that personal information of a child under 13 has been inadvertently collected, we will take immediate steps to delete such information. This app does not contain any harmful info for children, so, it is also safe to be used by children.
+
+By using the App, you agree to the collection and use of information as outlined in this Privacy Policy.
