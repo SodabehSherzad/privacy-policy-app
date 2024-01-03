@@ -1,0 +1,14 @@
+TechLingo Privacy Policy:
+
+This Privacy Policy outlines how our mobile application, TechLingo, handles user information.
+
+1. **Information Collection:**
+   - The App does not collect or store any user data. No personally identifiable information (such as names, addresses, or contact details) is requested or required within the App.
+
+2. **Third-Party Services:**
+   - The App does not employ any third-party services or integrations that would collect, store, or share user data.
+
+3. **Children's Privacy:**
+   - The App is designed for general audiences and does not collect any personal information at all. The app is safe for use by children and does not contain any harmful content.
+
+For any privacy-related inquiries, please contact us at sodabehsherzad2018@gmail.com.
