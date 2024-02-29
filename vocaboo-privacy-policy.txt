@@ -1,1 +1,32 @@
+Privacy Policy for VocaBoo Mobile Application
 
+1. Information Collection:
+   - VocaBoo does not collect any user data.
+   - No personally identifiable information is requested or stored.
+
+2. Third-Party Services:
+   - VocaBoo does not use third-party services or integrations for data collection.
+
+3. User Data Handling:
+   - No personal or sensitive user data is accessed, collected, or stored by TechLingo.
+   - The app is designed to be safe for users of all ages.
+
+4. Data Safety Section:
+   - VocaBoo maintains a Data Safety section consistent with this privacy policy.
+
+5. Privacy Policy:
+   - The privacy policy is available in the designated field within Google Play Console and within the app.
+   - No user data is accessed, collected, used, or shared.
+   - Developer contact: sodabehsherzad2018@gmail.com.
+
+6. Account Deletion:
+   - The app does not have user account creation (sign-up/sign-in) features.
+
+7. Usage of App Set ID:
+   - VocaBoo does not use App Set ID for ads personalization or ads measurement.
+
+8. EU-U.S., Swiss Privacy Shield:
+   - VocaBoo complies with all applicable privacy laws and does not rely on the EU-U.S. Privacy Shield.
+
+Contact Information:
+For any privacy-related inquiries, please contact sodabehsherzad2018@gmail.com.
