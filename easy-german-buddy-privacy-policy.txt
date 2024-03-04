@@ -1,18 +1,18 @@
 Privacy Policy for "Easy German Buddy" Mobile Application
 
 1. Information Collection:
-   - The "Easy German Buddy" does not collect any user data.
+   - The app does not collect any user data.
    - No personally identifiable information is requested or stored.
 
 2. Third-Party Services:
-   - The "Easy German Buddy" does not use third-party services or integrations for data collection.
+   - The app does not use third-party services or integrations for data collection.
 
 3. User Data Handling:
-   - No personal or sensitive user data is accessed, collected, or stored by "Easy German Buddy".
+   - No personal or sensitive user data is accessed, collected, or stored.
    - The app is designed to be safe for users of all ages.
 
 4. Data Safety Section:
-   - The "Easy German Buddy" maintains a Data Safety section consistent with this privacy policy.
+   - The app maintains a Data Safety section consistent with this privacy policy.
 
 5. Privacy Policy:
    - The privacy policy is available in the designated field within Google Play Console and within the app.
@@ -23,10 +23,10 @@ Privacy Policy for "Easy German Buddy" Mobile Application
    - The app does not have user account creation (sign-up/sign-in) features.
 
 7. Usage of App Set ID:
-   - The "Easy German Buddy" does not use App Set ID for ads personalization or ads measurement.
+   - The app does not use App Set ID for ads personalization or ads measurement.
 
 8. EU-U.S., Swiss Privacy Shield:
-   - The "Easy German Buddy" complies with all applicable privacy laws and does not rely on the EU-U.S. Privacy Shield.
+   - The app complies with all applicable privacy laws and does not rely on the EU-U.S. Privacy Shield.
 
 Contact Information:
 For any privacy-related inquiries, please contact sodabehsherzad2018@gmail.com.
